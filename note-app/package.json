@@ -1,0 +1,23 @@
+{
+  "name": "note-application",
+  "version": "1.0.0",
+  "description": "This a note taking application. Currently it works through command line.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankur54/Note-app.git"
+  },
+  "author": "Ankur Mazumder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankur54/Note-app/issues"
+  },
+  "homepage": "https://github.com/ankur54/Note-app#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "yargs": "^13.2.4"
+  }
+}
